@@ -10,4 +10,4 @@
 4. Pulls
 5. Uso do GitHub com VSCode
 
-###### Após essa aula, o Git será utilizado durante todas as aulas de uma forma ou outra, com o objetivo de simular um ambiente de trabalho real. 
+###### Após essa aula, o Git será utilizado durante todas as aulas de uma forma ou outra, com o objetivo de simular um ambiente de trabalho real.
