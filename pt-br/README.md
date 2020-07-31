@@ -1,3 +1,3 @@
 ### Exersicio 1
 
-O obijetivo desse exercicio é ve como o GitHub consegui ser muito util para trbalhus em grupo. Vamos faze uma dinamica bem legau cum o objetivu nau relacionado iniciaumente com programaçau, para podermus diferencia o que o Git reaumente faiz antis de ir ja associando eli a programaçau, assin nau vamos mistura conceitos antis da hora.
+O objetivo desse exercício é ver como o GitHub consegue ser muito útil para trabalhos em grupo. Vamos fazer uma dinâmica bem legal com o objetivo não relacionado inicialmente com programação, para podermos diferenciar o que o Git realmente faz antes de ir já associando ele a programação, assim não vamos misturar conceitos antes da hora.
