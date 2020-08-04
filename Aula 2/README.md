@@ -10,6 +10,7 @@
 4. Acessibilidade
 
     Métodos públicos e privados
+    
     Atributos públicos e privados
 
 ##### Exercícios propostos:
