@@ -13,7 +13,7 @@
 
 ##### Exercícios propostos:
 
-1. [Exercício 1]().
+1. Exercício 1 - Introdução a classes.
 
 ###### Após essa aula, os exercícios deverão ser realizados utilizando classes com responsabilidade única, seguindo o princípio S dos princípios SOLID.
 
