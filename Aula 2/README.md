@@ -8,6 +8,7 @@
 2. Instanciação de objetos
 3. Escopos de classes
 4. Acessibilidade
+
     Métodos públicos e privados
     Atributos públicos e privados
 
