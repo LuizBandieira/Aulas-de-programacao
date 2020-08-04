@@ -8,8 +8,10 @@
 2. Instanciação de objetos
 3. Escopos de classes
 4. Acessibilidade
-    4.1. Métodos públicos e privados
-    4.2. Atributos públicos e privados
+
+    Métodos públicos e privados
+    
+    Atributos públicos e privados
 
 ##### Exercícios propostos:
 
