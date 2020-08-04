@@ -1,4 +1,4 @@
-#### Aula 1:
-    [Introdução ao GitHub](./Aula%201)
+#### Aula 1: 
+* [Introdução ao GitHub](./Aula%201)
 #### Aula 2:
-    [Introdução as classes](./Aula%202)
+* [Introdução as classes](./Aula%202)
