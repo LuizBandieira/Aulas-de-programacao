@@ -1,0 +1,13 @@
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.csprojAssemblyReference.cache
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.AssemblyInfoInputs.cache
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.AssemblyInfo.cs
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\bin\Debug\netcoreapp3.1\Exercise 1.exe
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\bin\Debug\netcoreapp3.1\Exercise 1.deps.json
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\bin\Debug\netcoreapp3.1\Exercise 1.runtimeconfig.json
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\bin\Debug\netcoreapp3.1\Exercise 1.runtimeconfig.dev.json
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\bin\Debug\netcoreapp3.1\Exercise 1.dll
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\bin\Debug\netcoreapp3.1\Exercise 1.pdb
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.dll
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.pdb
+C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.genruntimeconfig.cache
