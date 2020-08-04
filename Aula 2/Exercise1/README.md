@@ -1,4 +1,4 @@
-##### Exercício 2: Elabore um programa que leia 50 valores para uma lista "inteiros", e a escreva. Desenvolva uma classe para cada item a seguir:
+##### Exercício 1: Elabore um programa que leia 50 valores para uma lista "inteiros", e a escreva. Desenvolva uma classe para cada item a seguir:
 
 * Uma classe que encontre e escreva o maior valor e o menor valor de uma lista e sua posição;
 * Uma classe que calcule e escreva a média aritmética dos valores na lista;
