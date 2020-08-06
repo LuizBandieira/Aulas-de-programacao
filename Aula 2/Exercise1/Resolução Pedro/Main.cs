@@ -173,8 +173,7 @@ namespace Main
                 primo = true;   
                 
                 for ( int loop = 2; loop < valor; loop++ )
-                {                                 
-                    primo = true;                    
+                {                                                  
                     if ( valor % loop == 0 )
                     {
                         primo = false;
