@@ -155,20 +155,31 @@ namespace Main
         }
     }
 
+    //Estou com sono, pare de me julgar
     class Primos
     {
         public List<int> guardaPrimos (List<int> numeros)
         {
             List<int> primos = new List<int>();
-            bool primo = false;
+            bool primo = true;
 
             foreach (int valor in numeros)
             {
+                if ( valor < 0  )
+                    {
+                        continue;
+                    }    
                 
                 for ( int loop = 2; loop < valor; loop++ )
-                {
-                    primo = false;
-                    
+                {                                 
+                    primo = true;                    
+                    if ( valor % loop == 0 )
+                    {
+                        primo = false;
+                        break;                           
+                    }                
+
+                    /*
                     if (valor < 0)
                     {
                         int i = Math.Abs(valor);
@@ -178,14 +189,10 @@ namespace Main
                             primo = true;
                         }
                     }
-                    
-                    if ( valor > 1 && valor % loop > 0 )
-                    {
-                        primo = true;                           
-                    }
+                    */
                 }
                 
-                if ( primo == true )
+                if ( primo == true || valor == 2 )
                 {
                     primos.Add(valor);
                 }                
