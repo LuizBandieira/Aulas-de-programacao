@@ -168,7 +168,9 @@ namespace Main
                 if ( valor < 0  )
                     {
                         continue;
-                    }    
+                    } 
+
+                primo = true;   
                 
                 for ( int loop = 2; loop < valor; loop++ )
                 {                                 
@@ -192,7 +194,7 @@ namespace Main
                     */
                 }
                 
-                if ( primo == true || valor == 2 )
+                if ( primo == true )
                 {
                     primos.Add(valor);
                 }                
