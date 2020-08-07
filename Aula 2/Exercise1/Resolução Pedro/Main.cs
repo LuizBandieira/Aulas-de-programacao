@@ -29,7 +29,7 @@ namespace Main
             var rand = new Random();
             for ( int loop = 0; loop < 50; loop++ )
             {
-                numeros.Add (rand.Next (-25, 100) );
+                numeros.Add (rand.Next (-25, 50) );
                 Console.Write (numeros [loop] + " ");
                 if ( loop % 25 == 0 && loop > 0) Console.WriteLine("");
             }
@@ -165,37 +165,45 @@ namespace Main
 
             foreach (int valor in numeros)
             {
+                primo = true;
+                /*
                 if ( valor < 0  )
                     {
                         continue;
-                    } 
-
-                primo = true;   
+                    }
+                */    
                 
-                for ( int loop = 2; loop < valor; loop++ )
-                {                                                  
-                    if ( valor % loop == 0 )
-                    {
-                        primo = false;
-                        break;                           
-                    }                
-
-                    /*
-                    if (valor < 0)
+                for ( int loop = 2; loop < Math.Abs(valor); loop++ )
+                {                                             
+                    if (Math.Abs(valor) < 1)
                     {
                         int i = Math.Abs(valor);
 
-                        if ( i % loop > 0)
+                        if ( i % loop > 0 )
                         {
                             primo = true;
                         }
+
+                        else
+                        {
+                            primo = false;
+                            break;
+                        }
                     }
-                    */
+
+                    else if ( Math.Abs(valor) > 1 && valor % loop == 0)
+                    {                  
+                        primo = false;
+                        continue;
+                    }
                 }
                 
-                if ( primo == true )
+                if ( primo == true && valor != 0)
                 {
-                    primos.Add(valor);
+                    if ( Math.Abs(valor) < 1 || Math.Abs(valor) > 1)
+                    {
+                        primos.Add(valor);      
+                    }                    
                 }                
             }
 
