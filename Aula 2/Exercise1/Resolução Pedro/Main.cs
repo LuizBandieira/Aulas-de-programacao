@@ -25,7 +25,7 @@ namespace Main
             Negativos contaNegativos;
             Primos exibePrimos;
 
-            Console.WriteLine ("Números gerados: ");
+            Console.WriteLine ("Números aleatórios gerados: ");
             var rand = new Random();
             for ( int loop = 0; loop < 50; loop++ )
             {
@@ -52,12 +52,12 @@ namespace Main
             primos = exibePrimos.guardaPrimos(numeros);
 
             
-            Console.WriteLine ("O maior valor é " + maiorValor + " e ele está na posição " + posicaoMaior);
-            Console.WriteLine ("O menor valor é " + menorValor + " e ele está na posição " + posicaoMenor);
-            Console.WriteLine ("\nA média aritmética é " + media);
-            Console.WriteLine ("Temos "+ quantPar + " números pares e " + quantImpar + " números ímpares");
-            Console.WriteLine ("Temos " + quantNegativos + " números negativos");
-            Console.Write ("Listagem dos primos: ");
+            Console.WriteLine ("O maior valor é " + maiorValor + " e ele está na posição " + posicaoMaior + ".");
+            Console.WriteLine ("O menor valor é " + menorValor + " e ele está na posição " + posicaoMenor + ".");
+            Console.WriteLine ("A média aritmética é " + media + ".");
+            Console.WriteLine ("Existem "+ quantPar + " números pares e " + quantImpar + " números ímpares.");
+            Console.WriteLine ("Existem " + quantNegativos + " números negativos.");
+            Console.Write ("\nNúmeros primos encontrados: ");
             foreach (int valor in primos)
             {
                 Console.Write (valor + " ");
