@@ -37,7 +37,7 @@ namespace Aula3
             }
 
             comparador = new Numero();         // instanciamento do objeto à classe 
-            (maiorNumero, menorNumero, imax, imin) = comparador.NummerPosition(lista);  
+            (maiorNumero, menorNumero, imax, imin) = comparador.NummerPosition(lista);  // tupla
             Console.WriteLine("\nO valor máximo é {0} e está na posição {1}", maiorNumero, imax);
             Console.WriteLine("\nO valor minimo é {0} e está na posição {1}", menorNumero, imin);
 
