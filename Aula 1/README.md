@@ -2,7 +2,7 @@
 
 ### Aula 1:
 
-##### Hoje vamos cobrir tópicos como:
+##### Nessa aula vamos cobrir tópicos como:
 
 1. Clonagem de repositórios
 2. Branches
