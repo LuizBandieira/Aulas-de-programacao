@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj": {}
+    "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise2\\Resolução Esdra\\Resolução Esdra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj": {
+    "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise2\\Resolução Esdra\\Resolução Esdra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj",
-        "projectName": "Exercise 1",
-        "projectPath": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj",
+        "projectUniqueName": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise2\\Resolução Esdra\\Resolução Esdra.csproj",
+        "projectName": "Resolução Esdra",
+        "projectPath": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise2\\Resolução Esdra\\Resolução Esdra.csproj",
         "packagesPath": "C:\\Users\\Esdra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\obj\\",
+        "outputPath": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise2\\Resolução Esdra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esdra\\AppData\\Roaming\\NuGet\\NuGet.Config"

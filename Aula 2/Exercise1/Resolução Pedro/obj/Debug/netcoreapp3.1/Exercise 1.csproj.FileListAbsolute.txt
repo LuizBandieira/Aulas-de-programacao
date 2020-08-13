@@ -11,3 +11,16 @@ C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\bin\Debug\netcoreapp3.
 C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.dll
 C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.pdb
 C:\Programming\Exercise Files\C#\Git Exercises\Exercise 1\obj\Debug\netcoreapp3.1\Exercise 1.genruntimeconfig.cache
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\bin\Debug\netcoreapp3.1\Exercise 1.exe
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\bin\Debug\netcoreapp3.1\Exercise 1.deps.json
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\bin\Debug\netcoreapp3.1\Exercise 1.runtimeconfig.json
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\bin\Debug\netcoreapp3.1\Exercise 1.runtimeconfig.dev.json
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\bin\Debug\netcoreapp3.1\Exercise 1.dll
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\bin\Debug\netcoreapp3.1\Exercise 1.pdb
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\obj\Debug\netcoreapp3.1\Exercise 1.csprojAssemblyReference.cache
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\obj\Debug\netcoreapp3.1\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\obj\Debug\netcoreapp3.1\Exercise 1.AssemblyInfoInputs.cache
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\obj\Debug\netcoreapp3.1\Exercise 1.AssemblyInfo.cs
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\obj\Debug\netcoreapp3.1\Exercise 1.dll
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\obj\Debug\netcoreapp3.1\Exercise 1.pdb
+C:\Users\Esdra\Desktop\Aulas-de-programacao\Aula 2\Exercise1\Resolução Pedro\obj\Debug\netcoreapp3.1\Exercise 1.genruntimeconfig.cache
