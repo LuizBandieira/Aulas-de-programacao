@@ -9,9 +9,10 @@
 1. Comunicação entre objetos
 2. Retorno de objetos
 
-###### Exercício proposto:
+###### Exercícios propostos:
 
 1. [Exercício 1 - Criando um triângulo](./Exercise1).
+2. [Exercício 2 - Decouple de lógica](./Exercise2).
 
 ##### Segunda parte: Nesse momento, iremos cobrir tópicos como:
 
