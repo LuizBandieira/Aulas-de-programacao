@@ -25,11 +25,11 @@ namespace Main
             Negativos contaNegativos;
             Primos exibePrimos;
 
-            Console.WriteLine ("Números gerados: ");
+            Console.WriteLine ("Números aleatórios gerados: ");
             var rand = new Random();
             for ( int loop = 0; loop < 50; loop++ )
             {
-                numeros.Add (rand.Next (-25, 100) );
+                numeros.Add (rand.Next (-25, 50) );
                 Console.Write (numeros [loop] + " ");
                 if ( loop % 25 == 0 && loop > 0) Console.WriteLine("");
             }
@@ -52,12 +52,12 @@ namespace Main
             primos = exibePrimos.guardaPrimos(numeros);
 
             
-            Console.WriteLine ("O maior valor é " + maiorValor + " e ele está na posição " + posicaoMaior);
-            Console.WriteLine ("O menor valor é " + menorValor + " e ele está na posição " + posicaoMenor);
-            Console.WriteLine ("\nA média aritmética é " + media);
-            Console.WriteLine ("Temos "+ quantPar + " números pares e " + quantImpar + " números ímpares");
-            Console.WriteLine ("Temos " + quantNegativos + " números negativos");
-            Console.Write ("Listagem dos primos: ");
+            Console.WriteLine ("O maior valor é " + maiorValor + " e ele está na posição " + posicaoMaior + ".");
+            Console.WriteLine ("O menor valor é " + menorValor + " e ele está na posição " + posicaoMenor + ".");
+            Console.WriteLine ("A média aritmética é " + media + ".");
+            Console.WriteLine ("Existem "+ quantPar + " números pares e " + quantImpar + " números ímpares.");
+            Console.WriteLine ("Existem " + quantNegativos + " números negativos.");
+            Console.Write ("\nNúmeros primos encontrados: ");
             foreach (int valor in primos)
             {
                 Console.Write (valor + " ");
@@ -165,37 +165,45 @@ namespace Main
 
             foreach (int valor in numeros)
             {
+                primo = true;
+                /*
                 if ( valor < 0  )
                     {
                         continue;
-                    } 
-
-                primo = true;   
+                    }
+                */    
                 
-                for ( int loop = 2; loop < valor; loop++ )
-                {                                                  
-                    if ( valor % loop == 0 )
-                    {
-                        primo = false;
-                        break;                           
-                    }                
-
-                    /*
-                    if (valor < 0)
+                for ( int loop = 2; loop < Math.Abs(valor); loop++ )
+                {                                             
+                    if (Math.Abs(valor) < 1)
                     {
                         int i = Math.Abs(valor);
 
-                        if ( i % loop > 0)
+                        if ( i % loop > 0 )
                         {
                             primo = true;
                         }
+
+                        else
+                        {
+                            primo = false;
+                            break;
+                        }
                     }
-                    */
+
+                    else if ( Math.Abs(valor) > 1 && valor % loop == 0)
+                    {                  
+                        primo = false;
+                        continue;
+                    }
                 }
                 
-                if ( primo == true )
+                if ( primo == true && valor != 0)
                 {
-                    primos.Add(valor);
+                    if ( Math.Abs(valor) < 1 || Math.Abs(valor) > 1)
+                    {
+                        primos.Add(valor);      
+                    }                    
                 }                
             }
 

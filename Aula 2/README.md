@@ -2,7 +2,7 @@
 
 ### Aula 2:
 
-#### Hoje vamos cobrir classes e tópicos como:
+#### Nessa aula vamos cobrir classes e tópicos como:
 
 1. Declaração de classes
 2. Instanciação de objetos
