@@ -1,0 +1,13 @@
+C:\Users\Esdra\Desktop\csharp\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.exe
+C:\Users\Esdra\Desktop\csharp\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.deps.json
+C:\Users\Esdra\Desktop\csharp\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.json
+C:\Users\Esdra\Desktop\csharp\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.dev.json
+C:\Users\Esdra\Desktop\csharp\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.dll
+C:\Users\Esdra\Desktop\csharp\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.pdb
+C:\Users\Esdra\Desktop\csharp\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.csprojAssemblyReference.cache
+C:\Users\Esdra\Desktop\csharp\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Esdra\Desktop\csharp\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfoInputs.cache
+C:\Users\Esdra\Desktop\csharp\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfo.cs
+C:\Users\Esdra\Desktop\csharp\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.dll
+C:\Users\Esdra\Desktop\csharp\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.pdb
+C:\Users\Esdra\Desktop\csharp\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.genruntimeconfig.cache
