@@ -9,6 +9,8 @@
 1. Conceito da Herança
 2. Sintaxe no C#
 
+**Utilize o programa dentro da pasta "Inheritence" para a resolução dos exercícios propostos.**
+
 #### Exercícios propostos:
 
 1. [Exercício 1 - Otimizando e boas maneiras](./Exercise1).

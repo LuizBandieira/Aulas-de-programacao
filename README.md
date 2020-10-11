@@ -4,3 +4,5 @@
 * [Introdução as classes](./Aula%202)
 #### Aula 3:
 * [Comunicação entre objetos](./Aula%203)
+#### Aula 4:
+* [Herança de classes](./Aula%204)
