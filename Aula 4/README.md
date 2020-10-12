@@ -14,6 +14,7 @@
 #### Exercícios propostos:
 
 1. [Exercício 1 - Otimizando e boas maneiras](./Exercise1).
+2. [Exercicio 2 - Nome aos bois](./Exercise2).
 
 ###### Cotinua..  
 
