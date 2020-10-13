@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\Exercise Files\\C#\\Git Exercises\\Exercise 1\\Exercise 1.csproj": {}
+    "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\Exercise Files\\C#\\Git Exercises\\Exercise 1\\Exercise 1.csproj": {
+    "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\Exercise Files\\C#\\Git Exercises\\Exercise 1\\Exercise 1.csproj",
+        "projectUniqueName": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj",
         "projectName": "Exercise 1",
-        "projectPath": "C:\\Programming\\Exercise Files\\C#\\Git Exercises\\Exercise 1\\Exercise 1.csproj",
-        "packagesPath": "C:\\Users\\phgms\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\Exercise Files\\C#\\Git Exercises\\Exercise 1\\obj\\",
+        "projectPath": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\Exercise 1.csproj",
+        "packagesPath": "C:\\Users\\Esdra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esdra\\Desktop\\Aulas-de-programacao\\Aula 2\\Exercise1\\Resolução Pedro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\phgms\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Esdra\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
